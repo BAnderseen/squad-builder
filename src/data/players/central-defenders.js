@@ -40,7 +40,19 @@ const CENTRAL_DEFENDERS = [
         name: "Terje Kojedal",
         position: "CD",
         score: 82
-    }
+    },
+    {
+        id: 2008,
+        name: "Cato Erstad",
+        position: "CD",
+        score: 70
+    },
+    {
+        id: 2009,
+        name: "Arnar Førsund",
+        position: "CD",
+        score: 32
+    },
 ]; 
 
 export default CENTRAL_DEFENDERS;
